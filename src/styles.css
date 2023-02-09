@@ -1,4 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+app-login {
+  height: 100%;
+}
+
+.height-30 {
+  height: 30%;
+}
+
+/* .width-5 {
+    width: 5%;
+} */
+
+.width-30 {
+  width: 30%;
+}
+
+/* .margin-r-10 {
+    margin-right: 10px;
+} */
+
+
+
+/* .input-control .mat-mdc-form-field {
+  width: 20% !important;
+}
+
+.input-control .mdc-text-field--outlined {
+  padding: 0px 0px 0px 0px !important;
+  height: 40px !important;
+}
+
+.input-control .mdc-text-field {
+    align-items: center;
+} */
